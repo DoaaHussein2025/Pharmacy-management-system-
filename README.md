@@ -41,8 +41,8 @@ It combines **workflow analysis**, **interactive dashboards**, and a **heart fai
 ---
 
 ## 🚀 How to Run the Project
-1. **Clone the repository**  https://github.com/DoaaHussein2025/Pharmacy-management-system-.git
+1. **Clone the repository**  
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/DoaaHussein2025/Pharmacy-management-system-.git
    cd hospital-pharmacy-system
 
